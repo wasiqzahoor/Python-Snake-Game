@@ -1,11 +1,5 @@
 # 🐍 Python Snake Game (Tkinter)
 
-  ____              _        ____                      
- / ___| _ __   __ _| | _____/ ___|  __ _ _ __ ___   ___ 
- \___ \| '_ \ / _` | |/ / _ \___ \ / _` | '_ ` _ \ / _ \
-  ___) | | | | (_| |   <  __/___) | (_| | | | | | |  __/
- |____/|_| |_|\__,_|_|\_\___|____/ \__,_|_| |_| |_|\___|
-
 A **classic Snake Game** implemented in **Python** using the built-in **Tkinter** GUI library.  
 Eat the food, grow your snake, and avoid hitting the walls or yourself to keep the game going.
 
